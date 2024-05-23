@@ -3,8 +3,10 @@
 import leadingup from "$lib/images/leadingup.svg?raw";
 </script>
 
+
 <div class="cardele">
   <div class="card">
+    <p style="text-align: center; padding-bottom: 15px; font-weight: bold;">The problem</p>
     <p>Over 75% of students indicated they would feel relieved if MCAS testing were permanently removed. This data suggests that a significant number of students experience negative feelings or stress related to the testing. Additionally, in response to the question, 'How do you feel leading up to MCAS testing?, 51.2% of students reported feeling 'stressed' and 44.8% felt 'annoyed'. These findings imply widespread dissatisfaction and anxiety among students regarding the MCAS testing process.</p>
 <!--  <div class="card2"> !-->
     <br/>
