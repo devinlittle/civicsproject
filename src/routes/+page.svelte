@@ -33,7 +33,7 @@
 
   <div class="cardgamer">
     <p style="text-align: center; padding-bottom: 15px; font-weight: bold;">A solution</p>
-    <p>MCAS is a great disruption to everyone, the students doing the test, the students not doing the test, and the teachers who can teach and just sit there doing nothing for a couple of hours. Its a waste of time and not a good one at that. Removing MCAS could fix this problem and remove the standardized testing process. To fill in the gap there might still be a place for standardized tests, but they wouldn't be high-stakes like MCAS. These tests could be shorter, more focused, and used for informational purposes only, not to determine school funding or graduation.<p/>
+    <p>MCAS is a great disruption to everyone, the students doing the test, the students not doing the test, and the teachers who can't teach and just sit there doing nothing for a couple of hours. Its a waste of time and not a good one at that. Removing MCAS could fix this problem and also remove the standardized testing process. To fill in the gap, there might still be a place for standardized tests, but they wouldn't be high-stakes like MCAS. These tests could be shorter, more focused, and used for informational purposes only, not to determine school funding or graduation.<p/>
 <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TCdxSoAhB9Q?si=uuqabUOWQZLllJ22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  -->
   </div>
 
